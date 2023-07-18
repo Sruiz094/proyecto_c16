@@ -1,7 +1,7 @@
 linea de código 1
 linea de código 2
 linea de código 3
-linea de código 4
+linea de código 4 aqui inicia el conflicto
 linea de código 5
 linea de código 6
 linea de código 7
